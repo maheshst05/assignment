@@ -1,4 +1,4 @@
-// ith tu tuzi kasi ghal an mala ith string palindrome ahhe ka nahi te sabg bc..
+
 
 let str="mada"
 let temp=""
